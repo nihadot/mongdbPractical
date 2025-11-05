@@ -48,7 +48,7 @@ db.students.insertMany([
   { name: "C", subjects: ["science", "history"] }
 ])
 
-
+  
 // Query:
 
 db.students.aggregate([
