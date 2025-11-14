@@ -21,3 +21,5 @@ Determine if a Collection is Clustered
 db.runCommand( { listCollections: 1 } )
 
 
+
+Clustered Index = an index that defines the physical order of documents on disk.
